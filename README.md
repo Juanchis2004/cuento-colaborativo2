@@ -13,7 +13,7 @@ Lo que más le dolía no era el miedo. Era la decepción.
 
 Siempre creyó que el esfuerzo y la honestidad eran suficientes para salir adelante. Pero ahora veía que, en los niveles altos, había personas preparadas para borrar la verdad con una sola línea de código.
 
-Y entendió algo duro:
+Y entendió algo duro:s
 
 La corrupción no siempre grita.
 A veces se esconde en silencio, en servidores bien refrigerados y oficinas elegantes.
@@ -24,3 +24,4 @@ El archivo tenía un comentario al inicio:
 
 Gael pensó:
 “¿Necesario para quién?”
+sebastian paso por aca 
